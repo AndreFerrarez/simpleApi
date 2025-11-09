@@ -17,13 +17,13 @@ Desenvolver uma aplicação Spring Boot com **5 endpoints REST**, gerar o arquiv
 - **Docker Desktop (Windows 11)**
 - **PowerShell**
 
-| Endpoint | Método | Descrição |
-|-----------|---------|-----------|
-| `/hello` | GET | Retorna uma saudação simples |
-| `/author` | GET | Exibe o nome do autor |
-| `/time` | GET | Mostra data e hora atuais |
-| `/status` | GET | Mostra o status da API |
-| `/sum/{a}/{b}` | GET | Soma dois números passados na URL |
+| Endpoint   | Método | Descrição                    |
+|------------|---------|------------------------------|
+| `/hello`   | GET | Retorna uma saudação simples |
+| `/author`  | GET | Exibe o nome do autor        |
+| `/time`    | GET | Mostra data e hora atuais    |
+| `/status`  | GET | Mostra o status da API       |
+| `/version` | GET | Mostra a versao utilizada.   |
 
 📍 **Exemplo de resposta:**
 
